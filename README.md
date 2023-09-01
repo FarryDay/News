@@ -9,3 +9,7 @@ Set your Api key in file `config.json` from `API_KEY`.
 # Api used
 
 Api: https://newsapi.org/
+
+# Dependencies
+
+UI/UX: https://mui.com/
